@@ -1,0 +1,6 @@
+C:\Users\John Ryan\source\repos\Final_Movie_Rental\sql_Database\bin\Debug\sql_Database.dacpac
+C:\Users\John Ryan\source\repos\Final_Movie_Rental\sql_Database\bin\Debug\sql_Database.dll
+C:\Users\John Ryan\source\repos\Final_Movie_Rental\sql_Database\bin\Debug\sql_Database.pdb
+C:\Users\John Ryan\source\repos\Final_Movie_Rental\sql_Database\obj\Debug\sql_Database.sqlproj.AssemblyReference.cache
+C:\Users\John Ryan\source\repos\Final_Movie_Rental\sql_Database\obj\Debug\sql_Database.dll
+C:\Users\John Ryan\source\repos\Final_Movie_Rental\sql_Database\obj\Debug\sql_Database.pdb
